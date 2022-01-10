@@ -1,0 +1,4 @@
+venv/
+trained_models/
+log/
+.DS_Store
