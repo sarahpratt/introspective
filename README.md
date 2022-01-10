@@ -17,7 +17,9 @@ python train.py --planning PLANNING --speed SPEED --vision VISION
 ```
 
 Planning has the options of ['low', 'mid', 'high']
+
 Speed has the options of ['veryslow', 'slow', 'average', 'fast', 'veryfast']
+
 Vision has the options of ['short', 'medium', 'long']
 
 So an example command looks like this:
