@@ -47,3 +47,14 @@ Number of prey caught in 10,000 steps is NUMBER
 To visualize a video of the evaluation run, use the flag --video
 
 Prerequisite packages can be found in requirements.txt
+
+If you found this repository useful, please consider citing:
+
+```bibtex
+@article{pratt2022introspective,
+  title={The Introspective Agent: Interdependence of Strategy, Physiology, and Sensing for Embodied Agents},
+  author={Pratt, Sarah and Weihs, Luca and Farhadi, Ali},
+  journal={arXiv preprint arXiv:2201.00411},
+  year={2022}
+}
+```
